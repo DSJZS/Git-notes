@@ -1,0 +1,4 @@
+1.打开Github网站
+2.登录账号
+3.点击右上角 +
+4.点击 New Repository

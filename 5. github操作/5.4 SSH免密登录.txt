@@ -1,0 +1,10 @@
+1. 打开文件管理器之后打开文件路径到 C:\Users\用户名\
+2. 在这个界面打开 git bash
+3. 输入指令 ssh-keygen-t rsa -C GitHub账号邮箱
+4. 3-5次回车
+5. C:\Users\用户名\  文件路径下会出现 .ssh 文件，打开它
+6. 其中 id_rsa 是私钥， id_rsa.pub 是公钥
+7. 查看公钥文件内容，复制其内容
+8. 在GitHub个人Settings下的 SSH and GPG Keys选项下 点击 New SSh Key
+9. 添加标题和黏贴公钥之后确认添加
+10.之后推送文件等操作时，拥有与这个公钥文件配对的私钥文件的电脑可利用 SSH 链接不登录GitHub账号进行操作

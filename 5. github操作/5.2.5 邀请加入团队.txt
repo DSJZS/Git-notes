@@ -1,0 +1,4 @@
+在 github  项目中的 settings 界面下的 collaborators 中添加合作对象
+之后将合作链接发给对方，等待对方接受
+
+如果不添加，非项目创建者无法push推送到库

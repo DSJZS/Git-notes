@@ -1,0 +1,3 @@
+1·如果路径上有存在空格名称的路径，需要使用单引号
+比如：E:/‘Git Repository’/Tesontainer
+2·Git上的路径分隔符是正斜杠/

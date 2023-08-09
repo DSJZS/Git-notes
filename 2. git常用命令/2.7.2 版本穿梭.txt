@@ -1,0 +1,5 @@
+1.基本语法
+git reset --hard 版本号
+
+(版本号可通过 git reflog 或者 git log 查看)
+(版本穿梭是通过指针实现的)

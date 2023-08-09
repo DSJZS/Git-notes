@@ -1,0 +1,10 @@
+1.基本语法
+git config --global user.name 用户名		
+git config --global user.email 邮箱		
+
+2.验证
+在 C:\Users\当前用户名
+中找到 .gitconfig 用记事本打开查看
+
+*注意：
+这些签名与 GitHub 等代码托管中心没有任何关系

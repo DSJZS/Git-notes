@@ -1,0 +1,8 @@
+1.基本语法
+命令名称						作用
+git remote -v					查看当前所有远程地址别名
+git remote add 别名 远程地址			起别名
+
+远程地址是github或者gitee的远程仓库地址
+
+*注意： git remote remove 别名  				删除别名

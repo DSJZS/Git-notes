@@ -1,0 +1,12 @@
+如果你觉得一个团队的项目某些分支写的不好，但你又不是该项目成员，你可以通过如下方式参与修改
+
+1. 在GitHub中打开一个别人团队的项目
+2. 点击右上角的fork，将项目叉到自己账号下
+3. 在线或者克隆推送等方式修改项目内容(此时只有自己账号下叉过来的该项目得到修改)
+4. 之后在自己账号下的该项目里点击pull request
+5. 在 pull request 界面中点击 New pull request
+6. 之后选择请求拉取的项目分支和目标分支，查看修改对比，确认无误后点击 create pull request
+7. 写一些描述之后 create pull request
+
+之后该项目团队看到 pull request 的消息后可以查看修改，并且与发出 pull request 的人对话
+之后如果同意，可以点击  Merge pull request 之后再点击 confirm merge 确认

@@ -1,0 +1,6 @@
+1.基本语法
+git checkout 分支名				
+
+2.结果查看
+git branch -v 的绿标
+或者项目地址后的蓝标
