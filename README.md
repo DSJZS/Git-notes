@@ -3,7 +3,7 @@
 I'm just a newbie, and these notes are most likely incorrect.  
 我只是一个新手，这些笔记大概率是不正确的。
 
-My native language is Chinese, so these notes are written in Chinese. 
+My native language is Chinese, so these notes are written in Chinese.  
 我的母语是中文，因此这些笔记都是用中文写的。
 
 Whether you're a pro or a newbie, whether your native language is Chinese or not, you're welcome to give me constructive comments (if you want to).  
