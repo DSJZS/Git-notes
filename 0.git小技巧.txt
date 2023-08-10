@@ -1,0 +1,6 @@
+1.按两次tab自动补齐
+
+2.利用 git config 给命令取别名
+如 git config --global alias.ci commit ，之后不用输入 git commit,而是输入 git ci
+
+具体看Pro Git 2.7
