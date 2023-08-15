@@ -2,3 +2,6 @@
 git fetch 与 git pull 的区别
 
 标签的作用
+
+重看pro git chapter 4、5
+并看pro git chapter 6
