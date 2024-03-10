@@ -56,7 +56,7 @@ $ git add README
 git log									查看提交历史
 git log -p -n									查看最近 n 次提交的历史
 git log --stat								查看提交历史( 仅显示简要的增改行数统计 )
-get log --pretty=xxx							xxx 为 oneline一行显示 short精简显示 full详细显示 fuller超详细显示 用对应的非常规模式查看提交历史
+git log --pretty=xxx							xxx 为 oneline一行显示 short精简显示 full详细显示 fuller超详细显示 用对应的非常规模式查看提交历史
 git log --pretty=format:"占位符列表"					定制要显示的记录格式输出提交历史( 占位符看 附录1 文件 )
 *注意：用 oneline 或 format 时结合 --graph 选项，可以看到开头多出一些 ASCII 字符串表示的简单图形，形象地展示了每个提交所在的分支及其分化衍合情况。
 *注意：以上只是简单介绍了一些 git log 命令支持的选项。附录2 文件 还列出了一些其他常用的选项及其释义。
